@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-TW" xml:lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>大家政便當廠-儲值點餐系統</title>
+  <meta name="keywords" content="大家政, 便當廠, 大家政便當廠, 大家政便當廠資訊部, 儲值系統, 點餐系統, 儲值點餐系統, BHG, BHG-delicious, Balance-Order-System, Google Apps Script, Apps Script, GAS, Google Sheets, GitHub, GitHub Pages">
+  <meta name="description" content="集眾多功能於一身的儲值點餐系統">
+  <meta name="author" content="gtes10301">
+  <base target="_top">
+  
+  <link rel="icon" type="image/png" href="https://i.ibb.co/1JJzGkTw/BHG-logo1.png">
+  <link rel="shortcut icon" type="image/png" href="https://i.ibb.co/1JJzGkTw/BHG-logo1.png">
+  <link rel="apple-touch-icon" href="https://i.ibb.co/1JJzGkTw/BHG-logo1.png">
+  <link rel="apple-touch-icon-precomposed" href="https://i.ibb.co/1JJzGkTw/BHG-logo1.png">
+  <link rel="canonical" href="https://bhg-delicious.github.io/balance-order-system/?utm_source=canonical">
+</head>
+<body>
+  <main>
+    <p>.</p>
+  </main>
+  <script>
+    window.location.href = "https://script.google.com/macros/s/AKfycbxqi5Pp5UbbFKpdRqaOhnLaWvyNo-hfUjegKg9dkNuTykpkoDFCmZehPJlYVw4tcFvsTQ/exec?utm_source=ai_ppt"
+  </script>
+</body>
+</html>
